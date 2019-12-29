@@ -3,6 +3,7 @@ LIDOC_Arduino
 Arduino Nano
 
 /* Pin Map Configuration */
+
 (D2)    LOADCELL_1_DAT
 
 (D3)    LOADCELL_1_CLK
